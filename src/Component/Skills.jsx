@@ -4,7 +4,7 @@ import logoreact from "../assets/img/logoreact.webp"
 import python from "../assets/img/python.png"
 import logopyth from "../assets/img/logopyth.jpg"
 import sql from "../assets/img/sql.png"
-import htmlnew from "../assets/img/htmlnew.png"
+import htmlnew from "../assets/img/htmlnew.jpg"
 import cssnew from "../assets/img/cssnew.jpg"
 import Bootstrap from "../assets/img/Bootstrap.png"
 
