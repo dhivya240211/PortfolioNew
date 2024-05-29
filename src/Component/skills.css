@@ -117,3 +117,10 @@
        padding: 0px 50px;
        padding-top: 100px;
     }
+    .boo{
+      border-radius: 90px;
+    }
+    .bee{
+    position: relative;
+    top: 20px;
+    }

@@ -18,11 +18,11 @@
     color: black;
     position: relative;
     bottom: 11px;
-   
+    left: 50px; 
 }
 .bb{
-    position: relative;
-    margin: 100px 550px;
+padding: 20px 0px;
+    margin: 60px 550px;
     text-align: center;
 }
 .mon{

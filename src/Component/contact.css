@@ -49,6 +49,7 @@ height: 700px;
     height: 65px;
     font-size: 20px;
     text-align:center;
+    border: 1px solid whitesmoke;
 
     
     
@@ -62,6 +63,7 @@ height: 700px;
     height: 65px;
     font-size: 20px;
     text-align:center;
+    border: 1px solid antiquewhite;
     
     
 }
@@ -73,6 +75,7 @@ height: 700px;
     height: 65px;
     font-size: 20px;
     text-align:center;
+    border: 1px solid antiquewhite;
     
 }
 
@@ -84,6 +87,7 @@ height: 700px;
     font-size: 20px;
     text-align:center;
     color: antiquewhite;
+    border: 1px solid antiquewhite;
     
 }
  .onx{

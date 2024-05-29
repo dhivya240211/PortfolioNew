@@ -76,7 +76,7 @@ export default function Skills() {
                   src={html}
                   alt=""
                   width={90}
-                  height={90}
+                  height={120}
                 />
               </a>
             </div>
@@ -89,8 +89,8 @@ export default function Skills() {
                 <img
                   src={css}
                   alt=""
-                  width={90}
-                  height={90}
+                  width={130}
+                  height={130}
                 />
               </a>
             </div>
@@ -100,32 +100,36 @@ export default function Skills() {
                 <img
                   src={jsnew}
                   alt=""
-                  width={90}
-                  height={90}
+                  width={130}
+                  height={130}
                 />
               </a>
             </div>
             <div className="logoimg">
+              <div className='bee'>
               <a href="#" target="_blank">
 
-                <img
+                <img 
                   src={Bootstrap}
                   alt=""
-                  width={90}
-                  height={90}
+                  width={100}
+                  height={100}
                 />
               </a>
+              </div>
             </div>
             <div className="logoimg">
+              
               <a href="#" target="_blank">
 
                 <img
                   src={logoreact}
                   alt=""
-                  width={90}
-                  height={80}
+                  width={110}
+                  height={110}
                 />
               </a>
+              
             </div>
             <div className="logoimg">
               <a href="#" target="_blank">
@@ -133,8 +137,8 @@ export default function Skills() {
                 <img
                   src={logopyth}
                   alt=""
-                  width={90}
-                  height={90}
+                  width={120}
+                  height={120}
                 />
               </a>
             </div>
@@ -144,19 +148,19 @@ export default function Skills() {
                 <img
                   src={visualstudio}
                   alt=""
-                  width={80}
-                  height={80}
+                  width={100}
+                  height={100}
                 />
               </a>
             </div>
             <div className="logoimg">
               <a href="#" target="_blank">
 
-                <img
+                <img className='boo'
                   src={newgit}
                   alt=""
-                  width={100}
-                  height={100}
+                  width={120}
+                  height={120}
 
                 />
               </a>
