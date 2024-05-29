@@ -1,0 +1,169 @@
+/* 
+*{
+    margin: 0px;
+    padding: 0px;
+}.top{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 25px;
+}
+.pholder{
+    width: 250px;
+}
+.appleedit{
+    height: 40px;
+    width: 45px;
+    color:white;
+    background-color: black;
+}
+.leftsidect{
+    border-right: 1px solid;
+}
+.iphone{
+    background-color: black;
+    color: antiquewhite;
+    width: 100%;
+    height: 100%;
+}
+.edit{
+    position: relative;left: 50px;
+    top: 80px;
+
+}
+.shop{
+    color: white;
+
+
+}
+.smallred{
+    height: 40px;
+    width: 20px;
+    background-color: red;
+}
+.name{
+    padding-left: 20px;
+    color: red;
+}
+.move{
+    
+    display: flex;
+     margin-left: 170px;
+     
+    
+}
+.vanam{
+    color: whitesmoke;
+    position: relative;
+    left: 80px;
+    top: 80px;
+
+}
+
+.lin{
+
+position: relative;
+left: 170px;
+bottom: 35px;
+}
+.category{
+    text-align: center;
+    
+}
+.ory{
+    background-color: red;
+    color: white ;
+    width: 180px;
+    height: 40px;
+    font-size: small;
+}
+.chotard{
+    height: 40px;
+    width: 20px;
+    background-color: red;
+}
+.arrow{
+    position: relative;
+    left: 800px;
+}
+.adj{
+    height: 90px;
+    width: 100px;
+    position: relative;
+    
+}  
+
+.allg{
+    position: relative;
+    left: 800px;
+    font-size: small;
+    color: white;
+    background-color: red;
+    padding: 10px;
+
+}  
+.radio{
+    background-color: black;
+} 
+.cat{
+    color: green;
+}
+.btr{
+    background-color: green;
+}
+.classy{
+margin-left: auto;
+margin-right: auto;
+}
+.lol{
+    text-align: center;
+}
+.mint{
+    height: 400px;
+    width: auto;
+    background-color: black;
+    color: white;
+    padding: 60px;
+}
+.tops{
+    position: relative;
+    bottom: 70px;
+    left: 99px;
+    width: 200px;
+    border-radius: 30px;
+
+   
+}
+.bottom{
+    position: relative;
+    bottom: 70px;
+    left: 100px;
+    width: 200px;
+}
+.rad{
+    border-radius: 20px;
+
+}
+.fir{
+    height: 35px;
+    width: 35px;
+    position: relative;
+bottom: 50px;
+padding: 5px;
+left: 14px;
+}
+  .para{
+    text-align: center;
+    color: gray;
+  } 
+  .text{
+    text-align: center;
+  } 
+    
+.for{
+    position: relative;
+    color: red;
+    left: 300px;
+    bottom: 21px;
+} */

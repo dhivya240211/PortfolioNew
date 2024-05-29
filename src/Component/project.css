@@ -1,0 +1,15 @@
+.mond{
+    background-image: url("src/assets/aqualaven.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+  background-size: cover;
+    
+}
+.down{
+    position: relative;
+    top: 100px;
+}
+
+
+
+

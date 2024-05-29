@@ -1,0 +1,61 @@
+
+
+.head{
+    background-image: url("src/assets/aqualaven.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+
+    .nam{
+    color: black;
+     
+}
+.nom{
+    color: black;
+    position: relative;
+    bottom: 11px;
+    left: 50px; 
+}
+.bb{
+    position: relative;
+    margin: 100px 550px;
+    text-align: center;
+}
+.mon{
+    color: black;
+    
+    height: 40px;
+    width: 40px;
+    padding-right: 15px;
+    margin-left: 15px;
+
+}
+.fro{
+    color: rgb(0, 255, 255);
+}
+.but{
+    margin-left: 20px;
+    padding: 12px;
+    border-radius: 25px;
+    
+    border: 1px solid aqua;
+    
+    background-color:aqua;
+    color: black;
+    width: 250px;
+    
+    font-size: larger;
+    margin-top: 50px;
+    
+
+} 
+.nav{
+
+position: relative;
+gap: 50px;
+
+
+}
