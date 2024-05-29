@@ -14,7 +14,7 @@ import newgit from "../assets/img/github.jpeg"
 
 export default function Skills() {
   return (
-    <div className="bag" id='section3'>
+    <div  id='section3'>
       <div className='lag'>
         <h1 >Skills</h1></div>
 

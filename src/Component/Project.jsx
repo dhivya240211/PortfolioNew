@@ -8,13 +8,13 @@ import todoimg from "../assets/img/todoimg.jpg"
 import shopping from "../assets/img/shopping.jpg"
 function Project() {
   return (
-
-    <div className='mond' id='section4'>
+<div  id='section4'>
+    <div className='mond'>
 
       <div className='container'>
 
-        <div>
-          <h2 className='down'>PROJECTS</h2>
+        <div className='down'>
+          <h2 >PROJECTS</h2>
         </div>
         <br /><br /><br /><br /><br />
         <div className='row'>
@@ -113,6 +113,7 @@ function Project() {
 
         </div>
       </div>
+    </div>
     </div>
   )
 }

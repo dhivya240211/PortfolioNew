@@ -35,7 +35,7 @@ function Portfolio() {
                 <img src={image} height="200px" width="200px"/>
                 
            <h1 className='nam'>Dhivya.S</h1><br/>
-           <p className='nom'>Frontend Developer</p>
+           <p className='nom'> Iam a Frontend Developer</p>
            <div >
            <FaInstagram className='mon' /><FiTwitter className='mon' /><CiLinkedin className='mon' /><FaFacebookSquare className='mon'/><FaWhatsapp className='mon'/><br/><br/>
            <button className='but'>Download CV</button>
