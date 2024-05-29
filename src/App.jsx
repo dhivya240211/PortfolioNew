@@ -49,11 +49,11 @@ function App() {
    
   
       <Portfolio/>
-           <Aboutme/> 
-      <Project/>
-      <Contact/>  
-       <Skills/>  
-  
+            <Aboutme/> 
+       <Project/>
+       <Contact/>  
+        <Skills/>     
+   
      {/* <Wehome/> */}
     {/* <Burger/> */}
     

@@ -1,17 +1,17 @@
 import React from 'react'
 import "../Component/skills.css"
-import logoreact from "../assets/img/logoreact.webp"
-import python from "../assets/img/python.png"
-import logopyth from "../assets/img/logopyth.jpg"
+import logoreact from "../assets/img/react-logo-1000-transparent_original.png"
+import python from "../assets/img/python-logo-png-open-2000.png"
+import logopyth from "../assets/img/python-logo-png-open-2000.png"
 import sql from "../assets/img/sql.png"
-import htmlnew from "../assets/img/htmlnew.jpg"
-import cssnew from "../assets/img/cssnew.jpg"
-import Bootstrap from "../assets/img/Bootstrap.png"
+import html from "../assets/img/html-logo.png"
+import css from "../assets/img/css3-logo-png-transparent.png"
+import Bootstrap from "../assets/img/Bootstrap Logo.png"
 
-import visualstudio from "../assets/img/visualstudio.png"
-import jsnew from "../assets/img/jsnew.jpg"
-import newgit from "../assets/img/newgit.png"
-import newreact from "../assets/img/newreact.png"
+import visualstudio from "../assets/img/visual-studio-code.png"
+import jsnew from "../assets/img/javascript-39394.png"
+import newgit from "../assets/img/github.jpeg"
+
 export default function Skills() {
   return (
     <div className="bag" id='section3'>
@@ -73,7 +73,7 @@ export default function Skills() {
                 target="_blank"
               >
                 <img
-                  src={htmlnew}
+                  src={html}
                   alt=""
                   width={90}
                   height={90}
@@ -87,7 +87,7 @@ export default function Skills() {
               >
 
                 <img
-                  src={cssnew}
+                  src={css}
                   alt=""
                   width={90}
                   height={90}
@@ -120,7 +120,7 @@ export default function Skills() {
               <a href="#" target="_blank">
 
                 <img
-                  src={newreact}
+                  src={logoreact}
                   alt=""
                   width={90}
                   height={80}
