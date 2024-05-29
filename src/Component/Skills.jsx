@@ -4,8 +4,8 @@ import logoreact from "../assets/img/logoreact.webp"
 import python from "../assets/img/python.png"
 import logopyth from "../assets/img/logopyth.jpg"
 import sql from "../assets/img/sql.png"
-import html from "../assets/img/html.png"
-import css from "../assets/img/css.jpg"
+import htmlnew from "../assets/img/htmlnew.png"
+import cssnew from "../assets/img/cssnew.jpg"
 import Bootstrap from "../assets/img/Bootstrap.png"
 
 import visualstudio from "../assets/img/visualstudio.png"
@@ -73,7 +73,7 @@ export default function Skills() {
                 target="_blank"
               >
                 <img
-                  src={html}
+                  src={htmlnew}
                   alt=""
                   width={90}
                   height={90}
@@ -87,7 +87,7 @@ export default function Skills() {
               >
 
                 <img
-                  src={css}
+                  src={cssnew}
                   alt=""
                   width={90}
                   height={90}
